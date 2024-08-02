@@ -1,0 +1,10 @@
+/* brekpoint */
+
+.child {
+    border: 5px solid var(--bs-red);
+    height: 100px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
